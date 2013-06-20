@@ -597,9 +597,25 @@ CSS2.0
 	bottom:设置对象与其最近一个具有定位设置的父对象底边相关的位置
 	left:设置对象与其最近一个具有定位设置的父对象左边相关的位置
 尺寸：
-	height:
-	
-	
+	height:设置对象的高度（IE6 standards-compliant mode的不同计算）
+	max-height:设置对象的最大高度限制
+	min-height:设置对象的最小高度限制
+	width:设置对象的宽度
+	max-width:设置对象的最大宽度
+	min-width:设置对象的最小宽度
+布局：
+	clear:该属性的值指定了不允许有浮动对象的边
+	float:该属性的值指出了对象是否及如何浮动
+	clip:设置对象的可视区域	
+	overflow:设置对象的内容超出其指定高度及宽度时如何管理内容
+	overflow-x:设置是否对内容的左/右边缘进行裁剪	
+	overflow-y:设置是否对内容的左/右边缘进行裁剪
+	display:设置对象是否及如何显示
+	visibility:设置是否显示对象
+外补丁：
+	margin:
+轮廓：
+	outline:
 文档流，定位流，浮动流
 
 	
