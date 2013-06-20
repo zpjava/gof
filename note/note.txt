@@ -578,6 +578,33 @@ CSS2.0
 	自定义注释
 	
 	
+背景颜色：
+	background:background-color|background-image|background-repeat|background-attachment|background-position设置对象的背景样式，该属性是复合属性。
+	background-attachment:设置背景图像是随对象的内容滚动还是固定
+	background-color:设置对象的背景颜色
+	background-image:设置对象的背景颜色
+	background-position:设置对象的背景图像位置
+	background-positionX:设置对象的背景图像横坐标位置
+	background-positionY:设置对象的背景图像纵坐标位置
+	background-repeat:设置对象的背景图像是否及如何铺排
+	layer-background-color:设置对象整个区域的背景颜色
+	layer-background-image:设置对象整个区域的背景图像
+定位：
+	position:static|absolute(相对于包含块（包含块也是absolute）的定位)|fixed(相对于窗口的定位)|relative(相对于元素自身的定位)
+	z-index:设置对象的层叠顺寻
+	top:设置对象与其最近一个具有定位设置的父对象顶边相关的位置
+	right:设置对象与其最近一个具有定位设置的父对象右边相关的位置
+	bottom:设置对象与其最近一个具有定位设置的父对象底边相关的位置
+	left:设置对象与其最近一个具有定位设置的父对象左边相关的位置
+尺寸：
+	height:
+	
+	
+文档流，定位流，浮动流
+
+	
+	
+	
 	
 	
 	
